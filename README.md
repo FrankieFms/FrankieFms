@@ -1,5 +1,5 @@
 ### Hi there 👋
-pronouns: He/Him
+### Pronouns: He/Him
 
 
 <!--

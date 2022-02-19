@@ -1,5 +1,7 @@
 ### Hi there 👋
 ### Pronouns: He/Him
+### I’m currently working on the Helikopter Bot on Discord, a private use bot!
+### How to reach me: Frankiee#0001 on Discord
 
 
 <!--

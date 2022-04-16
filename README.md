@@ -2,7 +2,7 @@
 ### Pronouns: He/Him
 ### I’m currently working on the Helikopter Bot on Discord, a private use bot!
 ### How to reach me: Frankiee#0001 on Discord
-
+https://discord.com/users/365024863548866563
 
 <!--
 **FrankieFms/FrankieFms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

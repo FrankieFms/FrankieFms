@@ -2,11 +2,10 @@
 ### Pronouns: He/Him
 ### I’m currently working on the Helikopter Bot on Discord, a private use bot!
 ### How to reach me: Frankiee#0001 on Discord
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gebwyd" alt="Profile Views" /> </p>  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=FrankieFms" alt="Profile Views" /> </p>  
 
 <p align="center">
-  <a href="https://discord.com/users/456857241593708554">
-     <img src="https://discord.c99.nl/widget/theme-1/456857241593708554.png" alt="Geb#0420 ( 456857241593708554 )"/>
+  <a href="https://discord.com/users/365024863548866563">
        </a>
 </p>
 

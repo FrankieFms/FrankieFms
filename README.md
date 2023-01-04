@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 ### Pronouns: He/Him
 ### I’m currently working on the Scrappy Bot (Previously known as Helikopter Bot) on Discord, a private use bot!
 ### How to reach me: Frankiee#0001 on Discord

@@ -1,5 +1,5 @@
 ### Hi there! 👋
-### I'm a Roblox developer with over 8M+ visits and a self taught video editor!
+### I'm a Roblox developer with over 9M+ visits and a self taught video editor!
 ### Pronouns: He/They
 ### How to reach me: Frankiee on Discord or contact@frankiefms.com
 
